@@ -1,0 +1,4 @@
+dist/
+dist-tests/
+tmp/
+node_modules/
